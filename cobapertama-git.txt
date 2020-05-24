@@ -1,3 +1,7 @@
 - Belajar membuat Project/Repository baru di Github
 - Belajar membuat perubahan/commit file
 - Tambah File baru lagi di Project Repo ke dua
+  - Tambah Materi 1
+  - Tambah Materi 2
+- Belajar Git Local
+  - Instal Git Local
