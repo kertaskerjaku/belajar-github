@@ -1,2 +1,3 @@
 - Belajar membuat Project/Repository baru di Github
 - Belajar membuat perubahan/commit file
+- Menambah File Baru pada Project File/Repo
