@@ -1,0 +1,2 @@
+- Belajar membuat Project/Repository baru di Github
+- Belajar membuat perubahan/commit file
